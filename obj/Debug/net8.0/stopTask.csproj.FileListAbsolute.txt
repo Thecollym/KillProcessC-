@@ -1,0 +1,15 @@
+C:\Users\lcoll\Ninja.NET\stopTask\bin\Debug\net8.0\stopTask.exe
+C:\Users\lcoll\Ninja.NET\stopTask\bin\Debug\net8.0\stopTask.deps.json
+C:\Users\lcoll\Ninja.NET\stopTask\bin\Debug\net8.0\stopTask.runtimeconfig.json
+C:\Users\lcoll\Ninja.NET\stopTask\bin\Debug\net8.0\stopTask.dll
+C:\Users\lcoll\Ninja.NET\stopTask\bin\Debug\net8.0\stopTask.pdb
+C:\Users\lcoll\Ninja.NET\stopTask\obj\Debug\net8.0\stopTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcoll\Ninja.NET\stopTask\obj\Debug\net8.0\stopTask.AssemblyInfoInputs.cache
+C:\Users\lcoll\Ninja.NET\stopTask\obj\Debug\net8.0\stopTask.AssemblyInfo.cs
+C:\Users\lcoll\Ninja.NET\stopTask\obj\Debug\net8.0\stopTask.csproj.CoreCompileInputs.cache
+C:\Users\lcoll\Ninja.NET\stopTask\obj\Debug\net8.0\stopTask.sourcelink.json
+C:\Users\lcoll\Ninja.NET\stopTask\obj\Debug\net8.0\stopTask.dll
+C:\Users\lcoll\Ninja.NET\stopTask\obj\Debug\net8.0\refint\stopTask.dll
+C:\Users\lcoll\Ninja.NET\stopTask\obj\Debug\net8.0\stopTask.pdb
+C:\Users\lcoll\Ninja.NET\stopTask\obj\Debug\net8.0\stopTask.genruntimeconfig.cache
+C:\Users\lcoll\Ninja.NET\stopTask\obj\Debug\net8.0\ref\stopTask.dll
