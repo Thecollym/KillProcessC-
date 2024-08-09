@@ -5,10 +5,10 @@ class StopTask
 { 
     static void Main(string[] args)
     {
-        List<string> list = new List<string>();
-        processName = ["msedge","brave"];
-     
+        
 
+        static void KillProcess(String processName){
+             
         foreach (var process in Process.GetProcessesByName(processName))
         {
             try
@@ -19,7 +19,13 @@ class StopTask
             catch (Exception ex)
             {
                 Console.WriteLine($"No se pudo detener el proceso {processName} (ID: {process.Id}): {ex.Message}");
-            }
+            }         
         }
     }
+        KillProcess("msedge");
+
+        }
+     
+       
+       
 }
